@@ -1,9 +1,10 @@
-RUS = ["а", "е", "ё", "и", "о", "э", "ю", "я", "ы"]
-ENG = {"a", "e", "i", "o", "u"}
+LETTERS = ["а", "е", "ё", "и", "о", "э", "ю", "я", "ы", "a", "e", "i", "o", "u"]
 letter = input("Введите букву: ")
-if letter in RUS or letter in ENG:
-    print("Буква является гласной.")
-elif letter == "y" or letter == "у":
-    print("Буква является согласной или гласной.")
+
+if letter == "y":
+    print("гласная-согласная, тут не понятно")
 else:
-    print("Буква является согласной.")
+    if letter in LETTERS:
+        print("буква согласная")
+    else:
+        print("буква гласная")
