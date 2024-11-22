@@ -4,6 +4,8 @@
 
 ### Задание 1 (гласные)
 
+https://github.com/squeeexd/tillabaevprakrtika3/blob/14dca6f0959f8f451b1b677c7c41da4fb982bf0e/Obuhov%20practika%203/task21.py
+
 ### Задание 2 (Фигуры)
 
 ### Задание 3 (гласные)
