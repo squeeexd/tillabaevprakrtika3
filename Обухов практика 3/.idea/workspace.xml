@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="54973f8d-8a16-4782-83e4-cafc756426a5" name="Changes" comment="Rework">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Обухов практика 3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task21.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task210.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task22.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task23.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task24.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task25.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task26.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task27notover.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task28.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task29.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="new1" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "TheRose20"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/squeeexd/tillabaevprakrtika3.git",
+    "accountId": "5f499496-9929-493f-bb0b-e0b93d4bff54"
+  },
+  "recentNewPullRequestHead": {
+    "server": {
+      "useHttp": false,
+      "host": "github.com",
+      "port": null,
+      "suffix": null
+    },
+    "owner": "squeeexd",
+    "repository": "tillabaevprakrtika3"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2pCtI3m5bLFusf54k6Oxtx8skoc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.task210.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "codeRefactor",
+    "last_opened_file_path": "/home/rose/My/python/other/tillabaevprakrtika3/Obuhov practika 3",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-884f5ed5d46b-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.22855.92" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54973f8d-8a16-4782-83e4-cafc756426a5" name="Changes" comment="" />
+      <created>1732281802288</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732281802288</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Rework">
+      <option name="closed" value="true" />
+      <created>1732282224398</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732282224398</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="all good" />
+    <MESSAGE value="Rework" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rework" />
+  </component>
+</project>
