@@ -1,0 +1,127 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Страница — 1" id="lOxN3HXe79FtkwHzb4EX">
+    <mxGraphModel dx="1035" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2djCyIxvXbldH3lZ-wAp-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2djCyIxvXbldH3lZ-wAp-2" target="2djCyIxvXbldH3lZ-wAp-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2djCyIxvXbldH3lZ-wAp-2" value="Начало" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="359.9999999999998" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2djCyIxvXbldH3lZ-wAp-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2djCyIxvXbldH3lZ-wAp-3" target="2djCyIxvXbldH3lZ-wAp-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2djCyIxvXbldH3lZ-wAp-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="359.9999999999998" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2djCyIxvXbldH3lZ-wAp-4" value="BANKNOTES = { &#xa;     1: &quot;Джордж Вашингтон&quot;, &#xa;     2: &quot;Томас Джефферсон&quot;, &#xa;     5: &quot;Авраам Линкольн&quot;, &#xa;     10: &quot;Александр Гамильтон&quot;, &#xa;     20: &quot;Эндрю Джексон&quot;, &#xa;     50: &quot;Улисс Грант&quot;, &#xa;     100: &quot;Бенджамин Франклин&quot; &#xa; } " style="strokeWidth=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="130" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2djCyIxvXbldH3lZ-wAp-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="2djCyIxvXbldH3lZ-wAp-7" target="2djCyIxvXbldH3lZ-wAp-8" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2djCyIxvXbldH3lZ-wAp-7" value="&lt;div&gt;Вывод:&lt;/div&gt;&lt;div&gt;&quot;Введите номинал банкноты: &quot;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2djCyIxvXbldH3lZ-wAp-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="2djCyIxvXbldH3lZ-wAp-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="418" y="380" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="418" y="390" />
+              <mxPoint x="418" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2djCyIxvXbldH3lZ-wAp-8" value="Ввод:&lt;div&gt;nominal&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2djCyIxvXbldH3lZ-wAp-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2djCyIxvXbldH3lZ-wAp-9" target="2djCyIxvXbldH3lZ-wAp-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="604" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2djCyIxvXbldH3lZ-wAp-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2djCyIxvXbldH3lZ-wAp-9" target="2djCyIxvXbldH3lZ-wAp-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2djCyIxvXbldH3lZ-wAp-9" value="nominal есть в BANKNOTES" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="358" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2djCyIxvXbldH3lZ-wAp-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2djCyIxvXbldH3lZ-wAp-13" target="2djCyIxvXbldH3lZ-wAp-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="274" y="580" />
+              <mxPoint x="414" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2djCyIxvXbldH3lZ-wAp-13" value="&lt;div&gt;Вывод:&lt;/div&gt;&lt;div&gt;&quot;Нет такого номинала&quot;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="214" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2djCyIxvXbldH3lZ-wAp-15" value="&lt;div&gt;Вывод:&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2djCyIxvXbldH3lZ-wAp-20" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="410" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2djCyIxvXbldH3lZ-wAp-21" value="Нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="410" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2djCyIxvXbldH3lZ-wAp-22" value="&quot;На банкноте в&quot;, &#xa;nominal,&#xa;&quot; изображен(а)&quot;,&#xa; BANKNOTES[nominal]" style="strokeWidth=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="480" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2djCyIxvXbldH3lZ-wAp-23" value="Конец" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="353.9999999999998" y="630" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2djCyIxvXbldH3lZ-wAp-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2djCyIxvXbldH3lZ-wAp-15" target="2djCyIxvXbldH3lZ-wAp-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="580" />
+              <mxPoint x="414" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2djCyIxvXbldH3lZ-wAp-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="453.9999999999998" y="580" as="sourcePoint" />
+            <mxPoint x="413.9999999999998" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2djCyIxvXbldH3lZ-wAp-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="373.9999999999998" y="580" as="sourcePoint" />
+            <mxPoint x="413.9999999999998" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2djCyIxvXbldH3lZ-wAp-31" value="Переменные:&lt;div&gt;Int: nominal&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Константы:&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;BANKNOTES&lt;/span&gt;&lt;span style=&quot;background-color: initial; white-space-collapse: preserve;&quot;&gt;&#x9;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="10" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2djCyIxvXbldH3lZ-wAp-33" value="01" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2djCyIxvXbldH3lZ-wAp-34" value="02" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="110" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2djCyIxvXbldH3lZ-wAp-35" value="03" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="200" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2djCyIxvXbldH3lZ-wAp-36" value="04" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="354" y="300" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2djCyIxvXbldH3lZ-wAp-37" value="05" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="354" y="400" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2djCyIxvXbldH3lZ-wAp-38" value="06" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="214" y="460" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2djCyIxvXbldH3lZ-wAp-39" value="07" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="460" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2djCyIxvXbldH3lZ-wAp-40" value="08" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="354" y="610" width="30" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

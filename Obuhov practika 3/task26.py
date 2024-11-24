@@ -8,13 +8,9 @@ BANKNOTES = {
     100: "Бенджамин Франклин"
 }
 
-nominal = input("Введи номинал банкноты: ")
+nominal = int(input("Введи номинал банкноты: "))
 
-if nominal.isdigit():
-    nominal = int(nominal)
-    if nominal in BANKNOTES:
-        print(f"На банкноте в ${nominal} изображен(а) {BANKNOTES[nominal]}.")
-    else:
-        print("Такого номинала нет! Давай по новой!")
+if nominal in BANKNOTES:
+	print(f"На банкноте в ${nominal} изображен(а) {BANKNOTES[nominal]}.")
 else:
-    print("Вводи нормальное число!")
+	print("Такого номинала нет! Давай по новой!")
